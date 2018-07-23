@@ -1,6 +1,6 @@
 {
 	"ret":200,
-	"msg":"success"
+	"msg":"success",
 	"data":[
   {
 		"merchant_id":01,
