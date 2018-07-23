@@ -1,0 +1,47 @@
+{
+	"ret":200,
+	"msg":"success"
+	"dataList":[
+  {
+		"merchant_id":01,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":02,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":03,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":04,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":05,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":06,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":07,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    },
+     {
+		"merchant_id":08,
+		"merchant_code":001,
+		"merchant_name":"德系"
+    }
+		
+]
+}
