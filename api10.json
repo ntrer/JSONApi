@@ -1,0 +1,16 @@
+{
+	"ret": "200",
+	"msg": "success",
+	"data": {
+		"totalCustomer": 5,
+		"unregisterNum": 4,
+		"registerNum": 1,
+		"registerRate": 0.2,
+		"totalMerchant": 2
+	},
+	"dataList": null,
+	"intcurrentPage": 0,
+	"intpageSize": 0,
+	"intmaxCount": 0,
+	"intmaxPage": 0
+}
