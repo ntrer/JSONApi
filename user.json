@@ -1,0 +1,15 @@
+{
+	"ret": 200,
+	"msg": "success",
+	"data": {
+		"token_id": "01",
+		"xingming": "刘总",
+		"shoujihao": "138000000",
+		"touxiang": "www.baidu.com",
+		"type": "01",
+		"shangjia_code": "01",
+		"shangjia_id": "01",
+		"shangjia_name": "01",
+		"activity_id": "01"
+	}
+}
