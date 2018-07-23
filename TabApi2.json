@@ -1,0 +1,18 @@
+{
+	"ret": 200,
+	"msg": " success",
+	"data": " null",
+	"dataList": [{
+		"merchant_id": "1",
+		"merchant_name": "商家1",
+		"merchant_code": "1"
+	}, {
+		"merchant_id": "2",
+		"merchant_name": "商家2",
+		"merchant_code": "2"
+	}],
+	"intcurrentPage": 0,
+	"intpageSize": 0,
+	"intmaxCount": 0,
+	"intmaxPage": 0
+}
