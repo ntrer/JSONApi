@@ -1,0 +1,13 @@
+{
+	"ret": 200,
+	"msg": "success",
+	"dataList": {
+		"merchant_id": "1",
+		"merchant_code": "01",
+		"merchant_name": "德系",
+		"user_id": "1",
+		"user_name": "刘总",
+		"user_phone": "13800000000",
+		"qdsj": "20:12:31"
+	}
+}
