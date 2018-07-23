@@ -1,7 +1,7 @@
 {
 	"ret":200,
 	"msg":"success"
-	"dataList":[
+	"data":[
   {
 		"merchant_id":01,
 		"merchant_code":001,
