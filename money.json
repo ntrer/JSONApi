@@ -1,0 +1,12 @@
+{
+	"ret": "200",
+	"msg": "success",
+	"data": {
+		"totalMerchant": 5,
+		"totalOrders": 4,
+    "totalMoney":52.0,
+		"averageMoney": 1.2,
+		"refundOrders": 2,
+		"refundMoney": 12.5
+	}
+}
