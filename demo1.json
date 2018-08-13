@@ -1,0 +1,76 @@
+{
+	"ret": "200",
+	"msg": "success",
+	"data": null,
+	"dataList": [{
+		"token_id": null,
+		"zhaopian": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534156198159&di=18bce1e61dc80ab1c7a35eb22c2472d1&imgtype=0&src=http://pic.66zhuang.com/design/corp_product/2014-08-02/small/small_b4b225d13dcfb0f2f21c51235fa74cd2.jpg",
+		"qdsj": "2018-08-13 11:26:55",
+		"qddz": "河南省安阳市文峰区中华路29号靠近万达嘉华酒店",
+		"qdzb": null,
+		"qdlh": "",
+		"targetNum": "100",
+		"doNum": null,
+		"doRate": null,
+		"efficiencyRatio": null
+	}, {
+		"token_id": null,
+		"zhaopian": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534156198919&di=032e91aed63f04ec38635fc29e3c8590&imgtype=0&src=http://www.dgwenzhan.com/picture/20153/dgwebpic/2015031765565421.jpg",
+		"qdsj": "2018-08-13 11:26:03",
+		"qddz": "河南省安阳市文峰区中华路29号靠近万达嘉华酒店",
+		"qdzb": null,
+		"qdlh": "",
+		"targetNum": "100",
+		"doNum": null,
+		"doRate": null,
+		"efficiencyRatio": null
+	}, {
+		"token_id": null,
+		"zhaopian": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534156198920&di=4b252226f85955666f815337f701e320&imgtype=0&src=http://img.bmlink.com/copic/200912/09122117436682.jpg",
+		"qdsj": "2018-08-13 11:26:03",
+		"qddz": "河南省安阳市文峰区中华路29号靠近万达嘉华酒店",
+		"qdzb": null,
+		"qdlh": "",
+		"targetNum": "100",
+		"doNum": null,
+		"doRate": null,
+		"efficiencyRatio": null
+	}, {
+		"token_id": null,
+		"zhaopian": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534156198920&di=8feab5791595d3e6d585de52bce65f9f&imgtype=0&src=http://static-xiaoguotu.17house.com/xgt/s/20/1462881825124aa.jpg",
+		"qdsj": "2018-08-13 11:25:00",
+		"qddz": "河南省安阳市文峰区中华路29号靠近万达嘉华酒店",
+		"qdzb": null,
+		"qdlh": "",
+		"targetNum": "100",
+		"doNum": null,
+		"doRate": null,
+		"efficiencyRatio": null
+	}, {
+		"token_id": null,
+		"zhaopian": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534156198920&di=4b252226f85955666f815337f701e320&imgtype=0&src=http://img.bmlink.com/copic/200912/09122117436682.jpg",
+		"qdsj": "2018-08-13 11:24:25",
+		"qddz": "河南省安阳市文峰区中华路29号靠近万达嘉华酒店",
+		"qdzb": null,
+		"qdlh": "发",
+		"targetNum": "100",
+		"doNum": null,
+		"doRate": null,
+		"efficiencyRatio": null
+	}, {
+		"token_id": null,
+		"zhaopian": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2472820285,1905457648&fm=27&gp=0.jpg",
+		"qdsj": "2018-08-13 10:34:03",
+		"qddz": "河南省安阳市文峰区中华路29号靠近万达嘉华酒店",
+		"qdzb": null,
+		"qdlh": "bj556",
+		"targetNum": "100",
+		"doNum": null,
+		"doRate": null,
+		"efficiencyRatio": null
+	}],
+	"intcurrentPage": 1,
+	"intpageSize": 10,
+	"intmaxCount": 11,
+	"intmaxPage": 2
+}
