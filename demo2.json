@@ -1,0 +1,21 @@
+{
+	"ret": "200",
+	"msg": "success",
+	"data": {
+		"token_id": null,
+		"zhaopian": null,
+		"qdsj": null,
+		"qddz": null,
+		"qdzb": null,
+		"qdlh": null,
+		"targetNum": "100",
+		"doNum": "11",
+		"doRate": "0.11",
+		"efficiencyRatio": "1.0"
+	},
+	"dataList": null,
+	"intcurrentPage": 0,
+	"intpageSize": 0,
+	"intmaxCount": 0,
+	"intmaxPage": 0
+}
